@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 380" width="100%" height="100%">
+  <style>
+    .bg { fill: #050505; stroke: #5a1818; stroke-width: 1.5; }
+    .header { fill: #1f0a0a; stroke: #5a1818; stroke-width: 1; }
+    .scroll-bar { fill: #1a1a1a; stroke: #333; stroke-width: 1; }
+    .title { fill: #d0d0d0; font-family: monospace; font-size: 11px; }
+    .matrix { fill: #7a1c1c; font-family: monospace; font-size: 7px; letter-spacing: 3px; }
+    
+    /* Estilo de tu bloque ASCII */
+    .ascii-container {
+      color: #e61919;
+      font-family: monospace;
+      font-size: 5px;       /* Subir o bajar este número si tu ASCII es muy grande o pequeño */
+      line-height: 5px;     /* Mantener igual al font-size para que no se estire verticalmente */
+      text-align: center;
+      margin: 0;
+      padding-top: 10px;
+      white-space: pre;
+      text-shadow: 0 0 2px #ff0000;
+    }
+  </style>
+
+  <!-- Ventana Principal -->
+  <rect x="1" y="1" width="398" height="310" class="bg" />
+  <rect x="1" y="1" width="398" height="24" class="header" />
+  <text x="10" y="16" class="title">[ SYSTEM_CORE.TXT ]</text>
+  <text x="315" y="16" class="title">RE_PLAY.avi</text>
+
+  <!-- Barras de Scroll Retro -->
+  <rect x="385" y="25" width="14" height="272" class="scroll-bar" />
+  <rect x="1" y="297" width="384" height="14" class="scroll-bar" />
+
+  <!-- Contenedor directo para pegar tu ASCII sin etiquetas por línea -->
+  
+    
