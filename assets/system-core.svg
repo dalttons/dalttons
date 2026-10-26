@@ -18,8 +18,8 @@
   <!-- Ventana Principal -->
   <rect x="1" y="1" width="398" height="310" class="bg" />
   <rect x="1" y="1" width="398" height="24" class="header" />
-  <text x="10" y="16" class="title">[ SYSTEM_CORE.TXT ]</text>
-  <text x="315" y="16" class="title">RE_PLAY.avi</text>
+  <text x="10" y="16" class="title">[ HIII.TXT ]</text>
+  <text x="315" y="16" class="title">Bye.avi</text>
 
   <!-- Barras de Scroll Retro -->
   <rect x="385" y="25" width="14" height="272" class="scroll-bar" />
@@ -27,7 +27,7 @@
 
   <!-- Tu Arte ASCII -->
   <text x="25" y="35" class="ascii">
-    <tspan x="25" dy="3.5">                                 %%######%%%                                                 </tspan>
+    <tspan x="25" dy="3.5">                           %%######%%%                                                 </tspan>
     <tspan x="25" dy="3.5">                               %%###%%@             %%#**********##%%                        </tspan>
     <tspan x="25" dy="3.5">                               %%******#%%          @%***************#%                      </tspan>
     <tspan x="25" dy="3.5">                                 %#*****#%        %#*****************#%@                     </tspan>
