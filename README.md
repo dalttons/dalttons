@@ -1,7 +1,8 @@
 <!-- BANNER VHS PRINCIPAL -->
 <div align="center">
 <a href="https://daijo.vercel.app">
-<img src="./assets/VisLain.gif" width="100%" alt="DALTTONS / DAIJO.DEV" />
+<!-- AQUÍ ES EL CAMBIO CLAVE: Apuntamos al SVG que contendrá el banner armado -->
+<img src="./assets/banner-container.svg" width="100%" alt="DALTTONS / DAIJO.DEV" />
 </a>
 </div>
 
@@ -11,20 +12,15 @@
 <table width="100%" border="0" cellspacing="0" cellpadding="0">
 <tr>
 <!-- COLUMNA IZQUIERDA: INFO, STACK & PROYECTOS -->
-<td width="58%" valign="top">
+<td width="55%" valign="top">
 
 <h3><font color="#ff2a2a">✦</font> ABOUT ME</h3>
-<table width="100%" border="0">
-<tr>
-<td width="75%">
 <p>Hi, I'm Dalttons — a Communication Sciences student fascinated by Human-Machine Communication (HMC), AI, and the ways people perceive and relate to intelligent machines. I also enjoy vibe coding and building creative digital experiences.</p>
-</td>
-<td width="25%" align="right" valign="top">
-<code>[ IDLE ]</code><br/>
-<kbd>[ ACTIVE ]</kbd>
-</td>
-</tr>
-</table>
+<div align="right">
+<code>[ IDLE ]</code> <kbd>[ ACTIVE ]</kbd>
+</div>
+
+<br />
 
 <h3><font color="#ff2a2a">✦</font> TECH STACK & TOOLS</h3>
 <p>
@@ -34,12 +30,14 @@
 <img src="https://img.shields.io/badge/%5B_NODE_%5D-0a0a0a?style=flat-square" alt="Node" />
 </p>
 
+<br />
+
 <h3><font color="#ff2a2a">✦</font> HIGHLIGHTED PROJECTS</h3>
 <table width="100%" border="0" cellspacing="0" cellpadding="4">
 <tr>
 <td width="50%">
 <a href="https://github.com/dalttons/local-assistant-with-AI">
-<img src="./assets/VisLain.gif" width="100%" alt="local-assistant-with-AI" />
+<img src="./assets/card-ai.svg" width="100%" alt="local-assistant-with-AI" />
 </a>
 </td>
 <td width="50%">
@@ -51,6 +49,9 @@
 </table>
 
 </td>
+
+<!-- ESPACIADOR -->
+<td width="3%"></td>
 
 <!-- COLUMNA DERECHA: ASCII -->
 <td width="42%" valign="top" align="center">
