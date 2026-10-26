@@ -1,7 +1,6 @@
 <!-- BANNER VHS PRINCIPAL -->
 <div align="center">
-<a href="https://daijo.vercel.app">
-<!-- AQUÍ ES EL CAMBIO CLAVE: Apuntamos al SVG que contendrá el banner armado -->
+<a href="https://daijo.vercel.app" target="_blank" rel="noopener noreferrer">
 <img src="./assets/banner-container.svg" width="100%" alt="DALTTONS / DAIJO.DEV" />
 </a>
 </div>
@@ -53,13 +52,19 @@
 <!-- ESPACIADOR -->
 <td width="3%"></td>
 
-<!-- COLUMNA DERECHA: ASCII -->
+<!-- COLUMNA DERECHA: ASCII + REDES SOCIALES -->
 <td width="42%" valign="top" align="center">
 <img src="./assets/system-core.svg" width="100%" alt="SYSTEM_CORE.TXT" />
 <br /><br />
+<p><code>🔗 connect with me 🔗</code></p>
+<p align="center">
 <a href="https://daijo.vercel.app">
-<code>🔗 connect with me 🔗</code>
+<img src="https://img.shields.io/badge/DAIJO.DEV-0a0a0a?style=for-the-badge&logo=googlechrome&logoColor=ff2a2a&labelColor=140808&color=2b0909" alt="Website" />
 </a>
+<a href="https://www.instagram.com/daijotattoo/">
+<img src="https://img.shields.io/badge/DAIJOTATTOO-0a0a0a?style=for-the-badge&logo=instagram&logoColor=ff2a2a&labelColor=140808&color=2b0909" alt="Instagram" />
+</a>
+</p>
 </td>
 </tr>
 </table>
