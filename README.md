@@ -23,10 +23,10 @@
 
 <h3><font color="#ff2a2a">✦</font> TECH STACK & TOOLS</h3>
 <p>
-<img src="https://img.shields.io/badge/%5B_PYTHON_%5D-0a0a0a?style=flat-square&labelColor=0a0a0a&color=2b0909" alt="Python" />
-<img src="https://img.shields.io/badge/%5B_TYPESCRIPT_%5D-0a0a0a?style=flat-square" alt="TypeScript" />
-<img src="https://img.shields.io/badge/%5B_REACT_%5D-0a0a0a?style=flat-square" alt="React" />
-<img src="https://img.shields.io/badge/%5B_NODE_%5D-0a0a0a?style=flat-square" alt="Node" />
+<img src="https://img.shields.io/badge/python-%233670A0.svg?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
+<img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+<img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
+<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JS" />
 </p>
 
 <br />
