@@ -19,8 +19,6 @@
 <code>[ IDLE ]</code> <kbd>[ ACTIVE ]</kbd>
 </div>
 
-<br />
-
 <h3><font color="#ff2a2a">✦</font> TECH STACK & TOOLS</h3>
 <p>
 <img src="https://img.shields.io/badge/python-%233670A0.svg?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
@@ -28,8 +26,6 @@
 <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
 <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JS" />
 </p>
-
-<br />
 
 <h3><font color="#ff2a2a">✦</font> HIGHLIGHTED PROJECTS</h3>
 <table width="100%" border="0" cellspacing="0" cellpadding="4">
