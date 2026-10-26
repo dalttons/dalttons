@@ -1,7 +1,7 @@
 <!-- BANNER VHS PRINCIPAL -->
 <div align="center">
 <a href="https://daijo.vercel.app">
-<img src="./assets/banner-vhs.png" width="100%" alt="DALTTONS / DAIJO.DEV" />
+<img src="./assets/VisLain.gif" width="100%" alt="DALTTONS / DAIJO.DEV" />
 </a>
 </div>
 
@@ -39,7 +39,7 @@
 <tr>
 <td width="50%">
 <a href="https://github.com/dalttons/local-assistant-with-AI">
-<img src="./assets/card-ai.svg" width="100%" alt="local-assistant-with-AI" />
+<img src="./assets/VisLain.gif" width="100%" alt="local-assistant-with-AI" />
 </a>
 </td>
 <td width="50%">
